@@ -11,5 +11,5 @@
   service:
     name: nginx
     state: started
-  beacome: yes
+  become: yes
 
