@@ -1,0 +1,8 @@
+
+- name: install curl
+  hosts: all
+  become: yes
+  roles:
+    - nginx
+
+
